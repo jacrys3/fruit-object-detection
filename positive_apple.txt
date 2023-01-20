@@ -1,0 +1,82 @@
+positive/apple1.jpg 0
+positive/apple2.jpg 1 328 18 647 686
+positive/apple3.jpg 3 24 183 664 692 647 186 650 685 1272 173 639 697
+positive/apple4.JPG 0
+positive/apple5.jpg 3 418 30 342 308 264 346 336 277 578 303 331 290
+positive/apple6.jpg 2 68 147 401 447 414 210 470 500
+positive/apple7.jpg 0
+positive/apple_1.jpg 1 12 7 321 335
+positive/apple_10.jpg 0
+positive/apple_11.jpg 2 199 22 249 220 0 29 200 238
+positive/apple_12.jpg 1 43 26 299 281
+positive/apple_13.jpg 2 405 265 325 304 104 415 302 281
+positive/apple_14.jpg 1 302 126 379 386
+positive/apple_15.jpg 0
+positive/apple_16.jpg 1 13 15 266 274
+positive/apple_17.jpg 1 95 94 504 617
+positive/apple_18.jpg 1 127 39 344 373
+positive/apple_19.jpg 1 194 89 1071 911
+positive/apple_2.jpg 1 27 12 191 219
+positive/apple_20.jpg 1 23 12 439 479
+positive/apple_21.jpg 2 100 57 230 329 259 108 335 277
+positive/apple_22.jpg 1 83 96 497 521
+positive/apple_23.jpg 3 148 217 190 194 98 143 165 168 245 140 157 172
+positive/apple_24.jpg 2 1 1 404 605 131 726 783 273
+positive/apple_25.jpg 2 12 31 165 179 162 24 184 179
+positive/apple_26.jpg 2 124 52 180 172 58 16 166 161
+positive/apple_27.jpg 2 38 3 342 344 272 43 378 306
+positive/apple_28.jpg 1 24 18 253 271
+positive/apple_29.jpg 1 20 13 200 225
+positive/apple_3.jpg 11 171 205 313 274 575 421 296 283 463 149 292 211 821 108 178 239 360 29 262 214 117 36 261 191 2 384 167 296 317 530 258 175 50 598 289 107 1 68 120 259 639 43 242 229
+positive/apple_30.jpg 5 210 426 336 287 613 471 185 260 1 76 307 322 247 159 345 319 520 191 180 266
+positive/apple_31.jpg 2 294 14 482 421 3 2 397 426
+positive/apple_32.jpg 2 33 178 682 740 574 23 683 804
+positive/apple_33.jpg 1 76 76 637 625
+positive/apple_35.jpg 1 41 127 180 201
+positive/apple_36.jpg 1 11 8 145 157
+positive/apple_37.jpg 1 22 15 350 320
+positive/apple_38.jpg 1 31 59 1252 935
+positive/apple_39.jpg 1 187 242 393 428
+positive/apple_4.jpg 2 15 21 149 167 143 18 194 191
+positive/apple_40.jpg 1 62 12 296 354
+positive/apple_41.jpg 2 143 6 192 238 34 142 200 134
+positive/apple_42.jpg 1 41 18 409 454
+positive/apple_43.jpg 1 85 34 556 563
+positive/apple_44.jpg 1 19 6 303 311
+positive/apple_45.jpg 2 21 59 346 348 317 60 271 296
+positive/apple_46.jpg 6 9 240 210 218 293 15 235 223 522 37 183 183 490 257 271 257 333 347 240 215 193 182 237 226
+positive/apple_47.jpg 2 60 47 548 565 478 69 414 469
+positive/apple_48.jpg 2 125 132 416 457 414 78 296 366
+positive/apple_49.jpg 1 12 7 251 285
+positive/apple_5.jpg 7 61 150 141 138 211 168 130 138 297 213 134 119 261 56 108 104 342 1 126 109 418 46 115 121 319 95 132 109
+positive/apple_50.jpg 2 140 42 148 147 44 38 104 106
+positive/apple_51.jpg 1 34 26 197 221
+positive/apple_52.jpg 5 121 64 147 152 222 183 119 134 372 238 84 91 182 300 146 128 0 180 171 163
+positive/apple_53.jpg 1 34 4 250 254
+positive/apple_54.jpg 2 426 243 541 622 42 69 602 786
+positive/apple_55.jpg 4 45 57 107 115 222 47 105 112 103 97 121 108 120 35 100 85
+positive/apple_56.jpg 1 319 206 538 561
+positive/apple_57.jpg 1 134 1 557 527
+positive/apple_58.jpg 3 158 339 483 455 1 131 375 446 273 4 430 376
+positive/apple_59.jpg 2 239 62 682 754 578 522 839 475
+positive/apple_6.jpg 2 134 107 309 321 547 176 309 313
+positive/apple_60.jpg 7 101 289 195 177 270 285 190 170 471 211 165 169 361 234 153 142 201 230 170 109 45 266 147 136 299 178 121 82
+positive/apple_61.jpg 2 65 174 214 185 192 59 227 276
+positive/apple_62.jpg 1 96 6 294 325
+positive/apple_63.jpg 1 4 2 727 691
+positive/apple_64.jpg 2 9 170 425 409 327 62 309 346
+positive/apple_65.jpg 7 22 202 246 228 74 12 213 212 190 196 234 203 598 297 188 208 503 365 174 207 350 273 188 203 188 356 184 210
+positive/apple_66.jpg 3 90 172 376 388 347 58 421 437 29 29 365 350
+positive/apple_67.jpg 2 48 104 345 333 295 48 286 294
+positive/apple_68.jpg 3 395 107 552 670 72 173 407 396 59 459 456 385
+positive/apple_69.jpg 3 90 207 181 193 224 196 200 183 163 118 189 138
+positive/apple_7.jpg 1 31 45 1098 947
+positive/apple_70.jpg 1 26 13 140 209
+positive/apple_71.jpg 3 316 54 282 279 79 97 287 254 72 14 279 189
+positive/apple_72.jpg 1 15 5 214 235
+positive/apple_73.jpg 1 12 4 197 196
+positive/apple_74.jpg 2 115 185 190 189 197 125 182 206
+positive/apple_75.jpg 1 11 6 276 262
+positive/apple_76.jpg 2 11 16 259 253 188 55 235 241
+positive/apple_8.jpg 1 46 3 184 149
+positive/apple_9.jpg 1 105 10 510 495

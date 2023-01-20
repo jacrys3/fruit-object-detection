@@ -1,0 +1,9 @@
+Fruit Detection & Classification
+
+- Run object_detection.bat to see the output images
+- You may change the value of the number of images in the bat file (max 25)
+
+- You will probably need to build the solution first as the bat file needs to 
+	run the executable from the /x64/debug/ folder
+- All items included in this zip folder need to be in the solution folder 
+	(FinalProject/FinalProject/) in order to run properly

@@ -1,0 +1,79 @@
+positive/banana1.jpg 1 156 125 918 599
+positive/banana2.jpg 1 43 25 1124 969
+positive/banana3.jpg 1 92 7 642 464
+positive/banana4.jpg 1 109 6 1066 702
+positive/banana5.jpg 10 14 474 478 260 94 287 403 361 149 190 357 398 345 86 192 475 518 54 125 508 573 87 286 466 639 131 359 427 689 212 426 360 728 354 444 268 768 549 422 185
+positive/banana6.jpg 1 149 151 948 572
+positive/banana_1.jpg 1 106 48 517 320
+positive/banana_10.jpg 1 31 5 672 441
+positive/banana_11.jpg 1 60 45 179 220
+positive/banana_12.jpg 1 60 31 510 427
+positive/banana_13.jpg 0
+positive/banana_14.jpg 1 25 21 387 329
+positive/banana_16.jpg 1 28 19 938 525
+positive/banana_17.jpg 1 109 31 416 411
+positive/banana_2.jpg 1 74 28 823 784
+positive/banana_20.jpg 1 69 3 484 344
+positive/banana_21.jpg 1 112 0 591 438
+positive/banana_22.jpg 3 30 166 399 189 328 143 212 244 74 87 368 173
+positive/banana_23.jpg 1 1 6 1174 580
+positive/banana_24.jpg 1 97 16 410 281
+positive/banana_25.jpg 1 24 303 290 154
+positive/banana_26.jpg 1 106 35 545 322
+positive/banana_27.jpg 1 104 154 1218 846
+positive/banana_28.jpg 1 40 159 932 583
+positive/banana_29.jpg 1 94 69 607 402
+positive/banana_3.jpg 1 57 92 595 352
+positive/banana_30.jpg 1 9 22 427 307
+positive/banana_31.jpg 1 163 37 449 345
+positive/banana_32.jpg 1 4 73 188 71
+positive/banana_33.jpg 1 5 57 709 435
+positive/banana_34.jpg 1 63 5 211 299
+positive/banana_35.jpg 1 69 79 177 116
+positive/banana_36.jpg 1 73 3 452 379
+positive/banana_37.jpg 8 116 12 805 536 368 138 187 408 538 141 228 405 616 51 258 340 526 59 276 315 197 124 297 357 178 43 350 287 103 6 404 260
+positive/banana_38.jpg 1 6 65 581 381
+positive/banana_39.jpg 1 3 120 455 312
+positive/banana_4.jpg 1 0 45 878 706
+positive/banana_40.jpg 1 66 9 515 387
+positive/banana_41.jpg 1 163 165 1525 781
+positive/banana_42.jpg 1 62 111 1100 370
+positive/banana_43.jpg 1 21 6 405 272
+positive/banana_44.jpg 1 426 278 188 113
+positive/banana_45.jpg 1 228 229 382 493
+positive/banana_46.jpg 1 8 4 415 202
+positive/banana_47.jpg 1 6 7 334 248
+positive/banana_48.jpg 1 10 118 1041 576
+positive/banana_49.jpg 1 88 50 528 202
+positive/banana_5.jpg 1 4 171 1124 825
+positive/banana_50.jpg 4 70 68 158 274 181 68 125 284 274 72 124 270 362 79 137 267
+positive/banana_51.jpg 1 103 2 586 411
+positive/banana_52.jpg 3 11 6 130 166 117 79 186 87 299 80 195 90
+positive/banana_53.jpg 1 3 0 398 435
+positive/banana_54.jpg 1 5 25 967 701
+positive/banana_55.jpg 0
+positive/banana_56.jpg 1 20 1 1868 989
+positive/banana_57.jpg 0
+positive/banana_58.jpg 1 121 93 528 245
+positive/banana_59.jpg 1 44 45 476 420
+positive/banana_6.jpg 1 869 109 608 888
+positive/banana_60.jpg 1 27 49 602 603
+positive/banana_61.jpg 1 37 55 557 291
+positive/banana_62.jpg 1 40 32 491 323
+positive/banana_63.jpg 2 70 28 1157 690 259 466 991 464
+positive/banana_64.jpg 1 84 33 534 330
+positive/banana_65.jpg 1 56 16 457 368
+positive/banana_66.jpg 1 29 4 359 275
+positive/banana_67.jpg 0
+positive/banana_68.jpg 6 474 133 529 334 629 3 529 300 812 491 385 181 210 457 463 215 0 1 426 347 17 232 208 440
+positive/banana_69.jpg 1 102 5 449 311
+positive/banana_7.jpg 1 30 52 536 769
+positive/banana_70.jpg 1 123 6 1469 888
+positive/banana_71.jpg 1 81 27 323 134
+positive/banana_72.jpg 1 86 11 1706 988
+positive/banana_73.jpg 0
+positive/banana_74.jpg 1 127 82 588 363
+positive/banana_75.jpg 1 119 11 243 276
+positive/banana_76.jpg 1 4 13 287 153
+positive/banana_8.jpg 1 543 1 1135 903
+positive/banana_9.jpg 1 1028 343 424 656
